@@ -1,2310 +1,2415 @@
 export default [
   {
-    id: '59bd5a519c18db5297a32479',
-    collecting_institution: '',
-    date: '1446',
-    dimensions: {
-      text: '11 1/2 Ã— 8 1/2 in',
-      height: 11.5,
-      width: 8.5,
-      depth: null,
-      diameter: null
-    },
-    slug: 'petrus-christus-portrait-of-a-carthusian',
+    id: 1,
     title: 'Portrait of a Carthusian',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/pVc7CubFzVlPhbErTAqyYg/medium.jpg',
+    slug: 'petrus-christus-portrait-of-a-carthusian',
+    date: '1446',
+    dimensions: {
+      width: 8.5,
+      height: 11.5
+    },
+    votes: 24,
     artist: {
+      id: 1,
       name: 'Petrus Christus',
       hometown: 'Baarle-Hertog, Belgium',
       birthday: '1410',
       deathday: '1475'
     },
-    votes: 64
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '59bd5a4c275b247913821d2a',
-    collecting_institution: '',
-    date: 'ca. 1665â€“1667',
-    dimensions: {
-      text: '17 1/2 Ã— 15 3/4 in',
-      height: 17.5,
-      width: 15.75,
-      depth: null,
-      diameter: null
-    },
-    slug: 'johannes-vermeer-study-of-a-young-woman',
+    id: 2,
     title: 'Study of a Young Woman',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/pLcp7hFbgtfYnmq-b_LXvg/medium.jpg',
+    slug: 'johannes-vermeer-study-of-a-young-woman',
+    date: 'ca. 1665â€“1667',
+    dimensions: {
+      width: 15.75,
+      height: 17.5
+    },
+    votes: 5,
     artist: {
+      id: 2,
       name: 'Johannes Vermeer',
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
     },
-    votes: 21
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '59bd5a2acb4c274d74388a33',
-    collecting_institution: '',
-    date: '1665â€“1667',
-    dimensions: {
-      text: '44 3/8 Ã— 34 1/2 in',
-      height: 44.375,
-      width: 34.5,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-portrait-of-gerard-de-lairesse',
+    id: 3,
     title: 'Portrait of Gerard de Lairesse',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/6b4QduWxeA1kSnrifgm2Zw/medium.jpg',
+    slug: 'rembrandt-van-rijn-portrait-of-gerard-de-lairesse',
+    date: '1665â€“1667',
+    dimensions: {
+      width: 34.5,
+      height: 44.375
+    },
+    votes: 17,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 30
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '59bd59ee9c18db5297a32338',
-    collecting_institution: '',
-    date: '1600â€“1626',
-    dimensions: {
-      text: '10 7/16 Ã— 6 15/16 in',
-      height: 10.4375,
-      width: 6.9375,
-      depth: null,
-      diameter: null
-    },
-    slug: 'peter-paul-rubens-bust-of-pseudo-seneca',
+    id: 4,
     title: 'Bust of Pseudo-Seneca',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/RcoWk2PHQq6yqX7dpSyt-g/medium.jpg',
+    slug: 'peter-paul-rubens-bust-of-pseudo-seneca',
+    date: '1600â€“1626',
+    dimensions: {
+      width: 6.9375,
+      height: 10.4375
+    },
+    votes: 53,
     artist: {
+      id: 4,
       name: 'Peter Paul Rubens',
       hometown: 'Siegen, Westphalia',
       birthday: '1577',
       deathday: '1640'
     },
-    votes: 96
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '59bd59eba09a672fdae25803',
-    collecting_institution: '',
-    date: '1449',
-    dimensions: {
-      text: '39 3/8 Ã— 33 3/4 in',
-      height: 39.375,
-      width: 33.75,
-      depth: null,
-      diameter: null
-    },
-    slug: 'petrus-christus-a-goldsmith-in-his-shop',
+    id: 5,
     title: 'A Goldsmith in his Shop',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/0-QXL43Ox2QgwqkYoCjAjg/medium.jpg',
+    slug: 'petrus-christus-a-goldsmith-in-his-shop',
+    date: '1449',
+    dimensions: {
+      width: 33.75,
+      height: 39.375
+    },
+    votes: 5,
     artist: {
+      id: 1,
       name: 'Petrus Christus',
       hometown: 'Baarle-Hertog, Belgium',
       birthday: '1410',
       deathday: '1475'
     },
-    votes: 80
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '59bd59dda09a672f268ace8a',
-    collecting_institution: '',
-    date: 'ca. 1635',
-    dimensions: {
-      text: '80 1/4 Ã— 62 1/4 in',
-      height: 80.25,
-      width: 62.25,
-      depth: null,
-      diameter: null
-    },
-    slug:
-      'peter-paul-rubens-rubens-his-wife-helena-fourment-1614-1673-and-their-son-frans-1633-1678',
+    id: 6,
     title:
       'Rubens, His Wife Helena Fourment (1614â€“1673), and Their Son Frans (1633â€“1678)',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/miBYVNx3iV4AtBWgierQrg/medium.jpg',
+    slug:
+      'peter-paul-rubens-rubens-his-wife-helena-fourment-1614-1673-and-their-son-frans-1633-1678',
+    date: 'ca. 1635',
+    dimensions: {
+      width: 62.25,
+      height: 80.25
+    },
+    votes: 7,
     artist: {
+      id: 4,
       name: 'Peter Paul Rubens',
       hometown: 'Siegen, Westphalia',
       birthday: '1577',
       deathday: '1640'
     },
-    votes: 47
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '59bd59dc7622dd4d72211a0a',
-    collecting_institution: '',
-    date: '1653',
-    dimensions: {
-      text: '56 1/2 Ã— 53 3/4 in',
-      height: 56.5,
-      width: 53.75,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-aristotle-with-a-bust-of-homer',
+    id: 7,
     title: 'Aristotle with a Bust of Homer',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/q5OTabe7_Bu8kfxzK_UUag/medium.jpg',
+    slug: 'rembrandt-van-rijn-aristotle-with-a-bust-of-homer',
+    date: '1653',
+    dimensions: {
+      width: 53.75,
+      height: 56.5
+    },
+    votes: 13,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 46
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '59bd59dc139b214a3672abe5',
-    collecting_institution: '',
-    date: 'ca. 1662',
-    dimensions: {
-      text: '18 Ã— 16 in',
-      height: 18,
-      width: 16,
-      depth: null,
-      diameter: null
-    },
-    slug: 'johannes-vermeer-young-woman-with-a-water-pitcher',
+    id: 8,
     title: 'Young Woman with a Water Pitcher',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/pdRjIGw58ecojporcDG0_w/medium.jpg',
+    slug: 'johannes-vermeer-young-woman-with-a-water-pitcher',
+    date: 'ca. 1662',
+    dimensions: {
+      width: 16.0,
+      height: 18.0
+    },
+    votes: 33,
     artist: {
+      id: 2,
       name: 'Johannes Vermeer',
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
     },
-    votes: 95
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '59bd59db139b2149937fce24',
-    collecting_institution: '',
-    date: '1660',
-    dimensions: {
-      text: '31 5/8 Ã— 26 1/2 in',
-      height: 31.625,
-      width: 26.5,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-self-portrait-1661',
+    id: 9,
     title: 'Self-Portrait',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/7EthRD-B57oEJovV77WH0Q/medium.jpg',
+    slug: 'rembrandt-van-rijn-self-portrait-1661',
+    date: '1660',
+    dimensions: {
+      width: 26.5,
+      height: 31.625
+    },
+    votes: 27,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 41
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '59bd59d57622dd4d722119ee',
-    collecting_institution: '',
-    date: '1617',
-    dimensions: {
-      text: '17 9/16 Ã— 9 3/4 in',
-      height: 17.5625,
-      width: 9.75,
-      depth: null,
-      diameter: null
-    },
-    slug: 'peter-paul-rubens-portrait-of-nicolas-trigault-in-chinese-costume',
+    id: 10,
     title: 'Portrait of Nicolas Trigault in Chinese Costume',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/-VmrYlEp4nXEjtSa8-C7PA/medium.jpg',
+    slug: 'peter-paul-rubens-portrait-of-nicolas-trigault-in-chinese-costume',
+    date: '1617',
+    dimensions: {
+      width: 9.75,
+      height: 17.5625
+    },
+    votes: 47,
     artist: {
+      id: 4,
       name: 'Peter Paul Rubens',
       hometown: 'Siegen, Westphalia',
       birthday: '1577',
       deathday: '1640'
     },
-    votes: 37
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '59bd59d4275b247913821bce',
-    collecting_institution: '',
-    date: 'ca. 1580â€“1585',
-    dimensions: {
-      text: '16 1/4 Ã— 12 5/8 in',
-      height: 16.25,
-      width: 12.625,
-      depth: null,
-      diameter: null
-    },
-    slug: 'bartholomaeus-spranger-diana-and-actaeon',
+    id: 11,
     title: 'Diana and Actaeon',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/FaqwCA1k4QjgaiGN8PElUQ/medium.jpg',
+    slug: 'bartholomaeus-spranger-diana-and-actaeon',
+    date: 'ca. 1580â€“1585',
+    dimensions: {
+      width: 12.625,
+      height: 16.25
+    },
+    votes: 35,
     artist: {
+      id: 5,
       name: 'Bartholomaeus Spranger',
       hometown: 'Antwerp, Belgium',
       birthday: '1546',
       deathday: '1611'
     },
-    votes: 30
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '516dfbcfed1712d0a8000c6d',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1645',
-    dimensions: {
-      text: '30 5/16 Ã— 25 3/16 in',
-      height: 30.3125,
-      width: 25.1875,
-      depth: null,
-      diameter: null
-    },
-    slug: 'frans-hals-willem-coymans',
+    id: 12,
     title: 'Willem Coymans',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/gXMChrE5re4HdlIP6__LXQ/medium.jpg',
+    slug: 'frans-hals-willem-coymans',
+    date: '1645',
+    dimensions: {
+      width: 25.1875,
+      height: 30.3125
+    },
+    votes: 39,
     artist: {
+      id: 6,
       name: 'Frans Hals',
       hometown: 'Antwerp, Belgium',
       birthday: '1582',
       deathday: '1666'
     },
-    votes: 25
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516dfa97fdc44191d60005e2',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1665/1666',
-    dimensions: {
-      text: '15 7/8 Ã— 14 Ã— 1 3/4 in',
-      height: 15.875,
-      width: 14,
-      depth: 1.75,
-      diameter: null
-    },
-    slug: 'johannes-vermeer-girl-with-the-red-hat',
+    id: 13,
     title: 'Girl with the Red Hat',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/HonaTUUvYdsWkN0lZDupoA/medium.jpg',
+    slug: 'johannes-vermeer-girl-with-the-red-hat',
+    date: 'ca. 1665/1666',
+    dimensions: {
+      width: 14.0,
+      height: 15.875
+    },
+    votes: 23,
     artist: {
+      id: 2,
       name: 'Johannes Vermeer',
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
     },
-    votes: 18
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516dfa059ad2d3888600167a',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'Probably 1618',
-    dimensions: {
-      text: '48 7/16 Ã— 35 7/16 in',
-      height: 48.4375,
-      width: 35.4375,
-      depth: null,
-      diameter: null
-    },
-    slug: 'anthony-van-dyck-portrait-of-a-flemish-lady',
+    id: 14,
     title: 'Portrait of a Flemish Lady',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/84kbp21trAp1_h2P8tpoZg/medium.jpg',
+    slug: 'anthony-van-dyck-portrait-of-a-flemish-lady',
+    date: 'Probably 1618',
+    dimensions: {
+      width: 35.4375,
+      height: 48.4375
+    },
+    votes: 25,
     artist: {
+      id: 7,
       name: 'Anthony van Dyck',
       hometown: 'Antwerp, Belgium',
       birthday: '1599',
       deathday: '1641'
     },
-    votes: 93
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516df8a1fdc4419488000c2e',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1664',
-    dimensions: {
-      text: '24 3/4 Ã— 23 Ã— 3 in',
-      height: 24.75,
-      width: 23,
-      depth: 3,
-      diameter: null
-    },
-    slug: 'johannes-vermeer-woman-holding-a-balance-1',
+    id: 15,
     title: 'Woman Holding a Balance',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/FK3sgM_5U48WgyZw8_z-5A/medium.jpg',
+    slug: 'johannes-vermeer-woman-holding-a-balance-1',
+    date: 'ca. 1664',
+    dimensions: {
+      width: 23.0,
+      height: 24.75
+    },
+    votes: 22,
     artist: {
+      id: 2,
       name: 'Johannes Vermeer',
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
     },
-    votes: 43
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516df82b9ad2d32b27000b74',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1665',
-    dimensions: {
-      text: '17 11/16 Ã— 15 11/16 in',
-      height: 17.6875,
-      width: 15.6875,
-      depth: null,
-      diameter: null
-    },
-    slug: 'johannes-vermeer-a-lady-writing-1',
+    id: 16,
     title: 'A Lady Writing',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/kkQXTVbKBImWLnGWoLT6Qw/medium.jpg',
+    slug: 'johannes-vermeer-a-lady-writing-1',
+    date: 'ca. 1665',
+    dimensions: {
+      width: 15.6875,
+      height: 17.6875
+    },
+    votes: 56,
     artist: {
+      id: 2,
       name: 'Johannes Vermeer',
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
     },
-    votes: 28
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516df67aed1712e96f000c5a',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1617/1618',
-    dimensions: {
-      text: '20 3/16 Ã— 16 5/16 in',
-      height: 20.1875,
-      width: 16.3125,
-      depth: null,
-      diameter: null
-    },
-    slug: 'anthony-van-dyck-head-of-a-young-man',
+    id: 17,
     title: 'Head of a Young Man',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/bMtCaSDAZYyPA1ZMpstDvA/medium.jpg',
+    slug: 'anthony-van-dyck-head-of-a-young-man',
+    date: 'ca. 1617/1618',
+    dimensions: {
+      width: 16.3125,
+      height: 20.1875
+    },
+    votes: 18,
     artist: {
+      id: 7,
       name: 'Anthony van Dyck',
       hometown: 'Antwerp, Belgium',
       birthday: '1599',
       deathday: '1641'
     },
-    votes: 83
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516df640fdc44191d600040d',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '',
-    dimensions: {
-      text: '12 7/16 Ã— 8 in',
-      height: 12.4375,
-      width: 8,
-      depth: null,
-      diameter: null
-    },
-    slug:
-      'abraham-bloemaert-saint-bernard-of-clairvaux-with-the-instruments-of-the-passion',
+    id: 18,
     title: 'Saint Bernard of Clairvaux with the Instruments of the Passion',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/FD_KWqRKt-cz40mtCXqzww/medium.jpg',
+    slug:
+      'abraham-bloemaert-saint-bernard-of-clairvaux-with-the-instruments-of-the-passion',
+    date: null,
+    dimensions: {
+      width: 8.0,
+      height: 12.4375
+    },
+    votes: 13,
     artist: {
+      id: 8,
       name: 'Abraham Bloemaert',
       hometown: 'Gorinchem, Netherlands',
       birthday: '1566',
       deathday: '1651'
     },
-    votes: 32
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516df3e9b31e2bd65e000aee',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '',
-    dimensions: {
-      text: '19 Ã— 14 5/16 in',
-      height: 19,
-      width: 14.3125,
-      depth: null,
-      diameter: null
-    },
-    slug: 'abraham-bloemaert-head-of-an-old-man',
+    id: 19,
     title: 'Head of an Old Man',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/qE7QmlkE7IXhBtufr8tN0g/medium.jpg',
+    slug: 'abraham-bloemaert-head-of-an-old-man',
+    date: null,
+    dimensions: {
+      width: 14.3125,
+      height: 19.0
+    },
+    votes: 50,
     artist: {
+      id: 8,
       name: 'Abraham Bloemaert',
       hometown: 'Gorinchem, Netherlands',
       birthday: '1566',
       deathday: '1651'
     },
-    votes: 39
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516df2d1ed1712e96f000ab7',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1514',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'jacob-cornelisz-van-oostsanen-deploration-and-entombment-of-christ',
+    id: 20,
     title: 'Deploration and Entombment of Christ',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/RTp2AupQ8BLekR-w1fddYg/medium.jpg',
+    slug: 'jacob-cornelisz-van-oostsanen-deploration-and-entombment-of-christ',
+    date: '1514',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 52,
     artist: {
+      id: 9,
       name: 'Jacob Cornelisz van Oostsanen',
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
     },
-    votes: 60
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516de6aeed1712d0a8000389',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1590',
-    dimensions: {
-      text: '12 5/16 Ã— 11 7/8 in',
-      height: 12.3125,
-      width: 11.875,
-      depth: null,
-      diameter: null
-    },
-    slug: 'abraham-bloemaert-acis-and-galatea',
+    id: 21,
     title: 'Acis and Galatea',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/ya9yrmLWPjiata-ZP2M7Iw/medium.jpg',
+    slug: 'abraham-bloemaert-acis-and-galatea',
+    date: 'ca. 1590',
+    dimensions: {
+      width: 11.875,
+      height: 12.3125
+    },
+    votes: 7,
     artist: {
+      id: 8,
       name: 'Abraham Bloemaert',
       hometown: 'Gorinchem, Netherlands',
       birthday: '1566',
       deathday: '1651'
     },
-    votes: 90
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516dde5efdc441948800029d',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1512',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'jacob-cornelisz-van-oostsanen-the-kiss-of-judas',
+    id: 22,
     title: 'The Kiss of Judas',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/DmnWKvGL-hAAa4POwcuh0A/medium.jpg',
+    slug: 'jacob-cornelisz-van-oostsanen-the-kiss-of-judas',
+    date: '1512',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 39,
     artist: {
+      id: 9,
       name: 'Jacob Cornelisz van Oostsanen',
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
     },
-    votes: 10
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516ddd589ad2d38886000c73',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'probably c. 1645/1656',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'allart-van-everdingen-chapel-1',
+    id: 23,
     title: 'Chapel',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/9BzcyAdJffZh3KRfprM0Vg/medium.jpg',
-    artist: {
-      name: 'Allart van Everdingen',
-      hometown: '',
-      birthday: '',
-      deathday: ''
+    slug: 'allart-van-everdingen-chapel-1',
+    date: 'probably c. 1645/1656',
+    dimensions: {
+      width: null,
+      height: null
     },
-    votes: 15
+    votes: 22,
+    artist: {
+      id: 10,
+      name: 'Allart van Everdingen',
+      hometown: null,
+      birthday: null,
+      deathday: null
+    },
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cca8fb31e2b83810005d2',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1675',
-    dimensions: {
-      text: '30 1/16 Ã— 38 3/8 in',
-      height: 30.0625,
-      width: 38.375,
-      depth: null,
-      diameter: null
-    },
-    slug: 'jacob-van-ruisdael-country-house-in-a-park',
+    id: 24,
     title: 'Country House in a Park',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/ShYeG4kLAjFRGqEZX76QZw/medium.jpg',
+    slug: 'jacob-van-ruisdael-country-house-in-a-park',
+    date: 'ca. 1675',
+    dimensions: {
+      width: 38.375,
+      height: 30.0625
+    },
+    votes: 26,
     artist: {
+      id: 11,
       name: 'Jacob van Ruisdael',
       hometown: 'Haarlem, Netherlands',
       birthday: '1628',
       deathday: '1682'
     },
-    votes: 27
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cc91ded1712cccd000597',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1631',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-peasant-with-his-hands-behind-his-back',
+    id: 25,
     title: 'Peasant with His Hands behind His Back',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/9A6ASt9ai247GdInHP60Cw/medium.jpg',
+    slug: 'rembrandt-van-rijn-peasant-with-his-hands-behind-his-back',
+    date: '1631',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 2,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 0
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cc8ec9ad2d38886000571',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'probably c. 1645/1656',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'allart-van-everdingen-mill-below-a-waterfall',
+    id: 26,
     title: 'Mill below a Waterfall',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/i6xlgxNrpD3wER1hH-uR0Q/medium.jpg',
-    artist: {
-      name: 'Allart van Everdingen',
-      hometown: '',
-      birthday: '',
-      deathday: ''
+    slug: 'allart-van-everdingen-mill-below-a-waterfall',
+    date: 'probably c. 1645/1656',
+    dimensions: {
+      width: null,
+      height: null
     },
-    votes: 24
+    votes: 40,
+    artist: {
+      id: 10,
+      name: 'Allart van Everdingen',
+      hometown: null,
+      birthday: null,
+      deathday: null
+    },
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cc8be9ad2d38886000555',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1575/1580',
-    dimensions: {
-      text: '5 5/8 Ã— 7 1/4 in',
-      height: 5.625,
-      width: 7.25,
-      depth: null,
-      diameter: null
-    },
-    slug: 'joris-hoefnagel-animalia-rationalia-et-insecta-ignis-plate-liv',
+    id: 27,
     title: 'Animalia Rationalia et Insecta (Ignis):  Plate LIV',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/WSWPH-CephU0JhFR3fc3bQ/medium.jpg',
+    slug: 'joris-hoefnagel-animalia-rationalia-et-insecta-ignis-plate-liv',
+    date: 'ca. 1575/1580',
+    dimensions: {
+      width: 7.25,
+      height: 5.625
+    },
+    votes: 45,
     artist: {
+      id: 12,
       name: 'Joris Hoefnagel',
-      hometown: '',
+      hometown: null,
       birthday: '1542',
       deathday: '1601'
     },
-    votes: 22
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cc793b31e2b8bf6000497',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1631',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-beggar-with-his-left-hand-extended',
+    id: 28,
     title: 'Beggar with His Left Hand Extended',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/vmoC87evRUdLEt4_wb5wDQ/medium.jpg',
+    slug: 'rembrandt-van-rijn-beggar-with-his-left-hand-extended',
+    date: '1631',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 4,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 0
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cc754ed1712cccd0004c9',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1634',
-    dimensions: {
-      text: '5 13/16 Ã— 4 3/4 in',
-      height: 5.8125,
-      width: 4.75,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-self-portrait-with-plumed-cap-and-lowered-sabre',
+    id: 29,
     title: 'Self-Portrait (?) with Plumed Cap and Lowered Sabre',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/1FD6rcKKGm6EYAhWHqn5iw/medium.jpg',
+    slug: 'rembrandt-van-rijn-self-portrait-with-plumed-cap-and-lowered-sabre',
+    date: '1634',
+    dimensions: {
+      width: 4.75,
+      height: 5.8125
+    },
+    votes: 26,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 57
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cc3a9ed1712c8be000307',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1654',
-    dimensions: {
-      text: '3 13/16 Ã— 5 3/4 in',
-      height: 3.8125,
-      width: 5.75,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-the-golf-player',
+    id: 30,
     title: 'The Golf Player',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/eB0c2HP2BUMuTGk5qlDDaQ/medium.jpg',
+    slug: 'rembrandt-van-rijn-the-golf-player',
+    date: '1654',
+    dimensions: {
+      width: 5.75,
+      height: 3.8125
+    },
+    votes: 36,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 28
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cc396ed1712c8be0002f9',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1630',
-    dimensions: {
-      text: '4 3/4 Ã— 2 15/16 in',
-      height: 4.75,
-      width: 2.9375,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-beggar-seated-on-a-bank-1',
+    id: 31,
     title: 'Beggar Seated on a Bank',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/e-hO74arhffp2GMpGOLJQQ/medium.jpg',
+    slug: 'rembrandt-van-rijn-beggar-seated-on-a-bank-1',
+    date: '1630',
+    dimensions: {
+      width: 2.9375,
+      height: 4.75
+    },
+    votes: 29,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 26
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cc35f9ad2d32bec000311',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1635/1637',
-    dimensions: {
-      text: '3 5/16 Ã— 2 11/16 in',
-      height: 3.3125,
-      width: 2.6875,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-bust-of-an-elderly-man-in-a-flat-cap',
+    id: 32,
     title: 'Bust of an Elderly Man in a Flat Cap',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/Em13ph7YE3ujfS_bWm4zyA/medium.jpg',
+    slug: 'rembrandt-van-rijn-bust-of-an-elderly-man-in-a-flat-cap',
+    date: '1635/1637',
+    dimensions: {
+      width: 2.6875,
+      height: 3.3125
+    },
+    votes: 6,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 21
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cc2ae9ad2d32bec0002d9',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1634',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-christ-and-the-woman-of-samaria-among-ruins-1',
+    id: 33,
     title: 'Christ and the Woman of Samaria Among Ruins',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/pXHJ-d7yPr31aPI99KWRrw/medium.jpg',
+    slug: 'rembrandt-van-rijn-christ-and-the-woman-of-samaria-among-ruins-1',
+    date: '1634',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 55,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 19
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cc191fdc441e52f000232',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '',
-    dimensions: {
-      text: '9 15/16 Ã— 7 5/8 in',
-      height: 9.9375,
-      width: 7.625,
-      depth: null,
-      diameter: null
-    },
-    slug: 'abraham-bloemaert-seated-bishop',
+    id: 34,
     title: 'Seated Bishop',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/mIkFGj269ihh6BYCOgBbRQ/medium.jpg',
+    slug: 'abraham-bloemaert-seated-bishop',
+    date: null,
+    dimensions: {
+      width: 7.625,
+      height: 9.9375
+    },
+    votes: 32,
     artist: {
+      id: 8,
       name: 'Abraham Bloemaert',
       hometown: 'Gorinchem, Netherlands',
       birthday: '1566',
       deathday: '1651'
     },
-    votes: 5
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cc191ed1712cccd000211',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1606',
-    dimensions: {
-      text: '15 Ã— 20 11/16 in',
-      height: 15,
-      width: 20.6875,
-      depth: null,
-      diameter: null
-    },
-    slug: 'abraham-bloemaert-ritual-washing-of-the-israelites',
+    id: 35,
     title: 'Ritual Washing of the Israelites',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/dhVysmSAzvLUfoeWHuCEJA/medium.jpg',
+    slug: 'abraham-bloemaert-ritual-washing-of-the-israelites',
+    date: '1606',
+    dimensions: {
+      width: 20.6875,
+      height: 15.0
+    },
+    votes: 2,
     artist: {
+      id: 8,
       name: 'Abraham Bloemaert',
       hometown: 'Gorinchem, Netherlands',
       birthday: '1566',
       deathday: '1651'
     },
-    votes: 80
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '515cfe58b5907bf7e8001d67',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1511',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'jacob-cornelisz-van-oostsanen-christ-crowned-with-thorns',
+    id: 36,
     title: 'Christ Crowned with Thorns',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/JLcysLFzR_KLcTCzR9-vcw/medium.jpg',
+    slug: 'jacob-cornelisz-van-oostsanen-christ-crowned-with-thorns',
+    date: '1511',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 8,
     artist: {
+      id: 9,
       name: 'Jacob Cornelisz van Oostsanen',
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
     },
-    votes: 16
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '515cf9df7b7057eb4c001da7',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1514',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'jacob-cornelisz-van-oostsanen-the-flagellation',
+    id: 37,
     title: 'The Flagellation',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/d_pgfcMuwRc9gcGCvBMg1g/medium.jpg',
+    slug: 'jacob-cornelisz-van-oostsanen-the-flagellation',
+    date: '1514',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 56,
     artist: {
+      id: 9,
       name: 'Jacob Cornelisz van Oostsanen',
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
     },
-    votes: 9
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '515cf007769659e1fb00181e',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1575/1580',
-    dimensions: {
-      text: '5 5/8 Ã— 7 1/4 in',
-      height: 5.625,
-      width: 7.25,
-      depth: null,
-      diameter: null
-    },
-    slug: 'joris-hoefnagel-animalia-qvadrvpedia-et-reptilia-terra-plate-liii',
+    id: 38,
     title: 'Animalia Qvadrvpedia et Reptilia (Terra): Plate LIII',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/lsaverlvHf8HzHtf7pWhjg/medium.jpg',
+    slug: 'joris-hoefnagel-animalia-qvadrvpedia-et-reptilia-terra-plate-liii',
+    date: 'ca. 1575/1580',
+    dimensions: {
+      width: 7.25,
+      height: 5.625
+    },
+    votes: 1,
     artist: {
+      id: 12,
       name: 'Joris Hoefnagel',
-      hometown: '',
+      hometown: null,
       birthday: '1542',
       deathday: '1601'
     },
-    votes: 58
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '515ce7547b7057eb4c001427',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1514',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'jacob-cornelisz-van-oostsanen-ecce-homo',
+    id: 39,
     title: 'Ecce Homo',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/e4CYs1zI-31nndivXzIDOQ/medium.jpg',
+    slug: 'jacob-cornelisz-van-oostsanen-ecce-homo',
+    date: '1514',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 24,
     artist: {
+      id: 9,
       name: 'Jacob Cornelisz van Oostsanen',
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
     },
-    votes: 5
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '515cdbde5eeb1c524c000d03',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1575/1580',
-    dimensions: {
-      text: '5 5/8 Ã— 7 1/4 in',
-      height: 5.625,
-      width: 7.25,
-      depth: null,
-      diameter: null
-    },
-    slug: 'joris-hoefnagel-animalia-volatilia-et-amphibia-aier-plate-lv',
+    id: 40,
     title: 'Animalia Volatilia et Amphibia (Aier): Plate LV',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/ZhV_DQkmhGSX5g7bstp6_g/medium.jpg',
+    slug: 'joris-hoefnagel-animalia-volatilia-et-amphibia-aier-plate-lv',
+    date: 'ca. 1575/1580',
+    dimensions: {
+      width: 7.25,
+      height: 5.625
+    },
+    votes: 47,
     artist: {
+      id: 12,
       name: 'Joris Hoefnagel',
-      hometown: '',
+      hometown: null,
       birthday: '1542',
       deathday: '1601'
     },
-    votes: 65
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '515cd58b7696593fde000ab8',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1512',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'jacob-cornelisz-van-oostsanen-christ-on-the-mount-of-olives',
+    id: 41,
     title: 'Christ on the Mount of Olives',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/huyRZHzmRcxtUsV5HxTfmA/medium.jpg',
+    slug: 'jacob-cornelisz-van-oostsanen-christ-on-the-mount-of-olives',
+    date: '1512',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 34,
     artist: {
+      id: 9,
       name: 'Jacob Cornelisz van Oostsanen',
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
     },
-    votes: 15
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '515ccef5b5907b33b1000713',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'jacob-van-ruisdael-the-three-oaks',
+    id: 42,
     title: 'The Three Oaks',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/FLtJhzoX5CG9iY3j20s4sA/medium.jpg',
+    slug: 'jacob-van-ruisdael-the-three-oaks',
+    date: null,
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 23,
     artist: {
+      id: 11,
       name: 'Jacob van Ruisdael',
       hometown: 'Haarlem, Netherlands',
       birthday: '1628',
       deathday: '1682'
     },
-    votes: 45
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '4eb063a5b1976400010071f0',
-    collecting_institution: 'Mauritshuis, The Hague',
-    date: '1632',
-    dimensions: {
-      text: '85 3/10 Ã— 66 4/5 in',
-      height: 85.3,
-      width: 66.8,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-the-anatomy-lesson-of-dr-nicolaes-tulp',
+    id: 43,
     title: 'The Anatomy Lesson of Dr. Nicolaes Tulp',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/kvFioLTBXu0SWZ52sge1FQ/medium.jpg',
+    slug: 'rembrandt-van-rijn-the-anatomy-lesson-of-dr-nicolaes-tulp',
+    date: '1632',
+    dimensions: {
+      width: 66.8,
+      height: 85.3
+    },
+    votes: 16,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 64
+    museum: {
+      id: 3,
+      name: 'Mauritshuis, The Hague'
+    }
   },
   {
-    id: '537fc9354b84807c4b0000f0',
-    collecting_institution: '',
-    date: '1639',
-    dimensions: {
-      text: '26 3/5 Ã— 21 in',
-      height: 26.6,
-      width: 21,
-      depth: null,
-      diameter: null
-    },
-    slug: 'hans-bollongier-floral-still-life',
+    id: 44,
     title: 'Floral Still Life',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/REwHPiJkJLncb5KA2BLFEw/medium.jpg',
+    slug: 'hans-bollongier-floral-still-life',
+    date: '1639',
+    dimensions: {
+      width: 21.0,
+      height: 26.6
+    },
+    votes: 26,
     artist: {
+      id: 13,
       name: 'Hans Bollongier',
       hometown: 'Haarlem, Netherlands',
       birthday: '1602',
       deathday: '1675'
     },
-    votes: 89
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '537fc7b3c9dc2416f30000c4',
-    collecting_institution: '',
-    date: '1627',
-    dimensions: {
-      text: '30 3/5 Ã— 53 2/5 in',
-      height: 30.6,
-      width: 53.4,
-      depth: null,
-      diameter: null
-    },
-    slug: 'dirck-hals-the-fete-champetre',
+    id: 45,
     title: 'The FÃªte champÃªtre',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/Maeo4w-0diOd6V1xNszqKQ/medium.jpg',
+    slug: 'dirck-hals-the-fete-champetre',
+    date: '1627',
+    dimensions: {
+      width: 53.4,
+      height: 30.6
+    },
+    votes: 28,
     artist: {
+      id: 14,
       name: 'Dirck Hals',
       hometown: 'Haarlem, Netherlands',
       birthday: '1591',
       deathday: '1656'
     },
-    votes: 89
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '537fc6488b3b81033400008f',
-    collecting_institution: '',
-    date: '1623',
-    dimensions: {
-      text: '42 1/5 Ã— 34 4/5 in',
-      height: 42.2,
-      width: 34.8,
-      depth: null,
-      diameter: null
-    },
-    slug: 'gerrit-van-honthorst-the-merry-fiddler',
+    id: 46,
     title: 'The Merry Fiddler',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/54vcVIEGBQn8BNlUIEW6AQ/medium.jpg',
-    artist: {
-      name: 'Gerrit van Honthorst',
-      hometown: '',
-      birthday: '',
-      deathday: ''
+    slug: 'gerrit-van-honthorst-the-merry-fiddler',
+    date: '1623',
+    dimensions: {
+      width: 34.8,
+      height: 42.2
     },
-    votes: 82
+    votes: 29,
+    artist: {
+      id: 15,
+      name: 'Gerrit van Honthorst',
+      hometown: null,
+      birthday: null,
+      deathday: null
+    },
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '537fc3d5b202a31f870000b8',
-    collecting_institution: '',
-    date: '1614',
-    dimensions: {
-      text: '9 4/5 Ã— 5 1/2 Ã— 3 1/2 in',
-      height: 9.8,
-      width: 5.5,
-      depth: 3.5,
-      diameter: null
-    },
-    slug: 'adam-van-vianen-lidded-ewer',
+    id: 47,
     title: 'Lidded Ewer',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/TfDUkNz8Z93l1ZlHACM0og/medium.jpg',
+    slug: 'adam-van-vianen-lidded-ewer',
+    date: '1614',
+    dimensions: {
+      width: 5.5,
+      height: 9.8
+    },
+    votes: 30,
     artist: {
+      id: 16,
       name: 'Adam van Vianen',
       hometown: 'Utrecht, Netherlands',
       birthday: '1569',
       deathday: '1627'
     },
-    votes: 76
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '537fc1f1cb4c27a2b60000ed',
-    collecting_institution: '',
-    date: 'ca. 1579',
-    dimensions: {
-      text: '18 9/10 Ã— 13 4/5 in',
-      height: 18.9,
-      width: 13.8,
-      depth: null,
-      diameter: null
-    },
-    slug: 'adriaen-thomasz-key-william-i-prince-of-orange',
+    id: 48,
     title: 'William I, Prince of Orange',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/-MicyRb2np-0fdsVXcmiEQ/medium.jpg',
+    slug: 'adriaen-thomasz-key-william-i-prince-of-orange',
+    date: 'ca. 1579',
+    dimensions: {
+      width: 13.8,
+      height: 18.9
+    },
+    votes: 47,
     artist: {
+      id: 17,
       name: 'Adriaen Thomasz Key',
       hometown: 'Antwerp, Belgium',
       birthday: 'c. 1544',
       deathday: 'After 1589'
     },
-    votes: 13
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '537fb94dc9dc2416f3000056',
-    collecting_institution: '',
-    date: 'ca. 1533',
-    dimensions: {
-      text: '14 9/10 Ã— 11 3/5 in',
-      height: 14.9,
-      width: 11.6,
-      depth: null,
-      diameter: null
-    },
-    slug:
-      'workshop-of-jacob-cornelisz-van-oostsanen-portrait-of-jacob-cornelisz-van-oostsanen',
+    id: 49,
     title: 'Portrait of Jacob Cornelisz van Oostsanen',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/dFTRSccFAIaCZ0i1ENcNEw/medium.jpg',
+    slug:
+      'workshop-of-jacob-cornelisz-van-oostsanen-portrait-of-jacob-cornelisz-van-oostsanen',
+    date: 'ca. 1533',
+    dimensions: {
+      width: 11.6,
+      height: 14.9
+    },
+    votes: 37,
     artist: {
+      id: 18,
       name: 'Workshop of Jacob Cornelisz. van Oostsanen',
       hometown: 'Oostzaan, Netherlands',
       birthday: 'c. 1477',
       deathday: '1533'
     },
-    votes: 6
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '4f9bcc1f7e5be80001000569',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1624',
-    dimensions: {
-      text: '39 3/5 Ã— 32 3/5 in',
-      height: 39.6,
-      width: 32.6,
-      depth: null,
-      diameter: null
-    },
-    slug: 'hendrick-ter-brugghen-bagpipe-player',
+    id: 50,
     title: 'Bagpipe Player',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/59F_Q7v4buAQ5jFrNBaeGg/medium.jpg',
+    slug: 'hendrick-ter-brugghen-bagpipe-player',
+    date: '1624',
+    dimensions: {
+      width: 32.6,
+      height: 39.6
+    },
+    votes: 49,
     artist: {
+      id: 19,
       name: 'Hendrick ter Brugghen',
       hometown: 'The Hague, Netherlands',
       birthday: '1588',
       deathday: '1629'
     },
-    votes: 18
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '4f9bcc1f46a02d000100063b',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1665-70',
-    dimensions: {
-      text: '7 9/10 Ã— 7 in',
-      height: 7.9,
-      width: 7,
-      depth: null,
-      diameter: null
-    },
-    slug: 'johannes-vermeer-girl-with-a-flute',
+    id: 51,
     title: 'Girl with a Flute',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/D-w-ZaTt7SwHtkZjihABsg/medium.jpg',
+    slug: 'johannes-vermeer-girl-with-a-flute',
+    date: 'ca. 1665-70',
+    dimensions: {
+      width: 7.0,
+      height: 7.9
+    },
+    votes: 58,
     artist: {
+      id: 2,
       name: 'Johannes Vermeer',
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
     },
-    votes: 9
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '4f9b033d0545300001000864',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1665',
-    dimensions: {
-      text: '17 7/10 Ã— 15 7/10 in',
-      height: 17.7,
-      width: 15.7,
-      depth: null,
-      diameter: null
-    },
-    slug: 'johannes-vermeer-a-lady-writing',
+    id: 52,
     title: 'A Lady Writing',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/I7cw8pjYxisoQz4SzKx51w/medium.jpg',
+    slug: 'johannes-vermeer-a-lady-writing',
+    date: 'ca. 1665',
+    dimensions: {
+      width: 15.7,
+      height: 17.7
+    },
+    votes: 13,
     artist: {
+      id: 2,
       name: 'Johannes Vermeer',
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
     },
-    votes: 83
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '4f99d0a747c98f0001000478',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1659',
-    dimensions: {
-      text: '33 3/10 Ã— 26 in',
-      height: 33.3,
-      width: 26,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-self-portrait-1659',
+    id: 53,
     title: 'Self Portrait, 1659',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/gwa65j8uA3P58LxldJYJAg/medium.jpg',
+    slug: 'rembrandt-van-rijn-self-portrait-1659',
+    date: '1659',
+    dimensions: {
+      width: 26.0,
+      height: 33.3
+    },
+    votes: 44,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 54
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '4f99d0a740d3cf0001000408',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1645-1648',
-    dimensions: {
-      text: '34 1/2 Ã— 41 3/5 in',
-      height: 34.5,
-      width: 41.6,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-the-mill',
+    id: 54,
     title: 'The Mill',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/1Nv6CZWY4leMHzI3qu0cog/medium.jpg',
+    slug: 'rembrandt-van-rijn-the-mill',
+    date: '1645-1648',
+    dimensions: {
+      width: 41.6,
+      height: 34.5
+    },
+    votes: 12,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 48
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '53971449cd530e9300000015',
-    collecting_institution: '',
-    date: 'ca. 1628',
-    dimensions: {
-      text: '8 9/10 Ã— 7 2/5 in',
-      height: 8.9,
-      width: 7.4,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-self-portrait-1660',
+    id: 55,
     title: 'Self-portrait',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/zg-r2cfXcA7HaZ4djUQbQw/medium.jpg',
+    slug: 'rembrandt-van-rijn-self-portrait-1660',
+    date: 'ca. 1628',
+    dimensions: {
+      width: 7.4,
+      height: 8.9
+    },
+    votes: 13,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 49
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '535822ebc9dc2404db0000ab',
-    collecting_institution: '',
-    date: 'ca. 1530',
-    dimensions: {
-      text: '36 4/5 Ã— 26 3/10 in',
-      height: 36.8,
-      width: 26.3,
-      depth: null,
-      diameter: null
-    },
-    slug: 'lucas-van-leyden-worship-of-the-golden-calf',
+    id: 56,
     title: 'Worship of the Golden Calf',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/v7ty0jdlZwhIO7Sfxzphpw/medium.jpg',
+    slug: 'lucas-van-leyden-worship-of-the-golden-calf',
+    date: 'ca. 1530',
+    dimensions: {
+      width: 26.3,
+      height: 36.8
+    },
+    votes: 54,
     artist: {
+      id: 20,
       name: 'Lucas van Leyden',
       hometown: 'Leiden, Netherlands',
       birthday: '1494',
       deathday: '1533'
     },
-    votes: 54
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '535820e3cb4c271fc30000a9',
-    collecting_institution: '',
-    date: '1566',
-    dimensions: {
-      text: '67 3/10 Ã— 98 2/5 in',
-      height: 67.3,
-      width: 98.4,
-      depth: null,
-      diameter: null
-    },
-    slug: 'joachim-beuckelaer-the-well-stocked-kitchen',
+    id: 57,
     title: 'The Well-stocked Kitchen',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/WepFm_C5TSQw6QjZHlX99w/medium.jpg',
+    slug: 'joachim-beuckelaer-the-well-stocked-kitchen',
+    date: '1566',
+    dimensions: {
+      width: 98.4,
+      height: 67.3
+    },
+    votes: 17,
     artist: {
+      id: 21,
       name: 'Joachim Beuckelaer',
-      hometown: '',
+      hometown: null,
       birthday: '1533',
       deathday: '1574'
     },
-    votes: 62
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '53581e62a09a6714a10000a5',
-    collecting_institution: '',
-    date: '1590',
-    dimensions: {
-      text: '96 1/2 Ã— 151 3/5 in',
-      height: 96.5,
-      width: 151.6,
-      depth: null,
-      diameter: null
-    },
-    slug: 'cornelis-cornelisz-van-haarlem-the-massacre-of-the-innocents',
+    id: 58,
     title: 'The Massacre of the Innocents',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/wZadDelncXjxQX1Ivzlmkw/medium.jpg',
+    slug: 'cornelis-cornelisz-van-haarlem-the-massacre-of-the-innocents',
+    date: '1590',
+    dimensions: {
+      width: 151.6,
+      height: 96.5
+    },
+    votes: 48,
     artist: {
+      id: 22,
       name: 'Cornelis Cornelisz van Haarlem',
-      hometown: '',
+      hometown: null,
       birthday: '1562',
       deathday: '1638'
     },
-    votes: 21
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '5357fe359c18db8b6500028d',
-    collecting_institution: '',
-    date: 'ca. 1608',
-    dimensions: {
-      text: '30 2/5 Ã— 51 9/10 in',
-      height: 30.4,
-      width: 51.9,
-      depth: null,
-      diameter: null
-    },
-    slug: 'hendrick-avercamp-winter-landscape-with-ice-skaters',
+    id: 59,
     title: 'Winter Landscape with Ice Skaters',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/ob7WAxFn3Y1SajkfOrIOrQ/medium.jpg',
+    slug: 'hendrick-avercamp-winter-landscape-with-ice-skaters',
+    date: 'ca. 1608',
+    dimensions: {
+      width: 51.9,
+      height: 30.4
+    },
+    votes: 23,
     artist: {
+      id: 23,
       name: 'Hendrick Avercamp',
       hometown: 'Amsterdam, Netherlands',
       birthday: '1585',
       deathday: '1634'
     },
-    votes: 81
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '5357df7f9c18dbac2b000040',
-    collecting_institution: '',
-    date: '1649',
-    dimensions: {
-      text: '19 1/2 Ã— 29 1/2 in',
-      height: 19.5,
-      width: 29.5,
-      depth: null,
-      diameter: null
-    },
-    slug:
-      'pieter-jansz-saenredam-interior-of-the-sint-odulphuskerk-in-assendelft',
+    id: 60,
     title: 'Interior of the Sint-Odulphuskerk in Assendelft',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/qmZisDk22InXtHkqDUkapg/medium.jpg',
+    slug:
+      'pieter-jansz-saenredam-interior-of-the-sint-odulphuskerk-in-assendelft',
+    date: '1649',
+    dimensions: {
+      width: 29.5,
+      height: 19.5
+    },
+    votes: 17,
     artist: {
+      id: 24,
       name: 'Pieter Jansz. Saenredam',
       hometown: 'Assendelft, Netherlands',
       birthday: '1597',
       deathday: '1665'
     },
-    votes: 53
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '5357dbca139b21ec81000224',
-    collecting_institution: '',
-    date: 'ca. 1650 -1652',
-    dimensions: {
-      text: '73 3/5 Ã— 94 1/2 in',
-      height: 73.6,
-      width: 94.5,
-      depth: null,
-      diameter: null
-    },
-    slug: 'jan-both-italian-landscape-with-a-draughtsman',
+    id: 61,
     title: 'Italian Landscape with a Draughtsman',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/3PEnf7HkIgFFAfrmpm6qfw/medium.jpg',
-    artist: { name: 'Jan Both', hometown: '', birthday: '', deathday: '1652' },
-    votes: 32
+    slug: 'jan-both-italian-landscape-with-a-draughtsman',
+    date: 'ca. 1650 -1652',
+    dimensions: {
+      width: 94.5,
+      height: 73.6
+    },
+    votes: 3,
+    artist: {
+      id: 25,
+      name: 'Jan Both',
+      hometown: null,
+      birthday: null,
+      deathday: '1652'
+    },
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '5357da03cb4c2786a3000020',
-    collecting_institution: '',
-    date: '1653 -1657',
-    dimensions: {
-      text: '50 2/5 Ã— 89 3/5 in',
-      height: 50.4,
-      width: 89.6,
-      depth: null,
-      diameter: null
-    },
-    slug: 'aelbert-cuyp-river-landscape-with-riders',
+    id: 62,
     title: 'River Landscape with Riders',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/Z1b4KZ5F3bsX9YVpE1vaag/medium.jpg',
+    slug: 'aelbert-cuyp-river-landscape-with-riders',
+    date: '1653 -1657',
+    dimensions: {
+      width: 89.6,
+      height: 50.4
+    },
+    votes: 22,
     artist: {
+      id: 26,
       name: 'Aelbert Cuyp',
       hometown: 'Dordrecht, Netherlands',
       birthday: 'October 20, 1620',
       deathday: 'November 15, 1691'
     },
-    votes: 29
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '5357d5288b3b813fcd00004a',
-    collecting_institution: '',
-    date: '1662',
-    dimensions: {
-      text: '75 2/5 Ã— 109 4/5 in',
-      height: 75.4,
-      width: 109.8,
-      depth: null,
-      diameter: null
-    },
-    slug:
-      'rembrandt-van-rijn-the-wardens-of-the-amsterdam-drapers-guild-known-as-the-syndics',
+    id: 63,
     title:
       'The Wardens of the Amsterdam Drapersâ€™ Guild, Known as â€˜The Syndicsâ€™',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/kZMo5_gjk1TbWVgZQuwyLQ/medium.jpg',
+    slug:
+      'rembrandt-van-rijn-the-wardens-of-the-amsterdam-drapers-guild-known-as-the-syndics',
+    date: '1662',
+    dimensions: {
+      width: 109.8,
+      height: 75.4
+    },
+    votes: 45,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 50
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '5357d2cfa09a679102000045',
-    collecting_institution: '',
-    date: '1639',
-    dimensions: {
-      text: '42 1/10 Ã— 32 3/10 in',
-      height: 42.1,
-      width: 32.3,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-portrait-of-a-woman-possibly-maria-trip',
+    id: 64,
     title: 'Portrait of a Woman, Possibly Maria Trip',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/UJxHMaBgBKabD2g2sNtOpA/medium.jpg',
+    slug: 'rembrandt-van-rijn-portrait-of-a-woman-possibly-maria-trip',
+    date: '1639',
+    dimensions: {
+      width: 32.3,
+      height: 42.1
+    },
+    votes: 46,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 25
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '5357d09c7622dd0ff400002a',
-    collecting_institution: '',
-    date: 'ca. 1665 -1669',
-    dimensions: {
-      text: '47 4/5 Ã— 65 3/5 in',
-      height: 47.8,
-      width: 65.6,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-isaac-and-rebecca-known-as-the-jewish-bride',
+    id: 65,
     title: 'Isaac and Rebecca, Known as â€˜The Jewish Brideâ€™',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/T8zyOM1P2ZbMiiw4Fjv_Ag/medium.jpg',
+    slug: 'rembrandt-van-rijn-isaac-and-rebecca-known-as-the-jewish-bride',
+    date: 'ca. 1665 -1669',
+    dimensions: {
+      width: 65.6,
+      height: 47.8
+    },
+    votes: 59,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 29
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '53559fedb202a3262000016a',
-    collecting_institution: '',
-    date: '1657',
-    dimensions: {
-      text: '66 9/10 Ã— 113 4/5 in',
-      height: 66.9,
-      width: 113.8,
-      depth: null,
-      diameter: null
-    },
-    slug: 'willem-van-de-velde-the-elder-the-battle-of-terheide',
+    id: 66,
     title: 'The Battle of Terheide',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/fOlaqjoaHuNXWumgC3CTbA/medium.jpg',
+    slug: 'willem-van-de-velde-the-elder-the-battle-of-terheide',
+    date: '1657',
+    dimensions: {
+      width: 113.8,
+      height: 66.9
+    },
+    votes: 16,
     artist: {
+      id: 27,
       name: 'Willem van de Velde the Elder',
-      hometown: '',
-      birthday: '',
+      hometown: null,
+      birthday: null,
       deathday: '1693'
     },
-    votes: 45
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '53559d87cd530e850c000166',
-    collecting_institution: '',
-    date: 'ca. 1658',
-    dimensions: {
-      text: '21 2/5 Ã— 17 3/10 in',
-      height: 21.4,
-      width: 17.3,
-      depth: null,
-      diameter: null
-    },
-    slug: 'johannes-vermeer-view-of-houses-in-delft-known-as-the-little-street',
+    id: 67,
     title: 'View of Houses in Delft, Known as â€˜The Little Streetâ€™',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/6sSY1BE4CGCm9-pQnfZe0A/medium.jpg',
+    slug: 'johannes-vermeer-view-of-houses-in-delft-known-as-the-little-street',
+    date: 'ca. 1658',
+    dimensions: {
+      width: 17.3,
+      height: 21.4
+    },
+    votes: 58,
     artist: {
+      id: 2,
       name: 'Johannes Vermeer',
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
     },
-    votes: 2
+    museum: {
+      id: 1,
+      name: 'Unknown Museum'
+    }
   },
   {
-    id: '52165a4c8b3b8194f8000375',
-    collecting_institution: 'The Frick Collection, New York',
-    date: '1658',
-    dimensions: {
-      text: '52 5/8 Ã— 40 7/8 in',
-      height: 52.625,
-      width: 40.875,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-self-portrait',
+    id: 68,
     title: 'Self-portrait',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/88gjaABNaDJiH4eqCB-DKg/medium.jpg',
+    slug: 'rembrandt-van-rijn-self-portrait',
+    date: '1658',
+    dimensions: {
+      width: 40.875,
+      height: 52.625
+    },
+    votes: 23,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 61
+    museum: {
+      id: 4,
+      name: 'The Frick Collection, New York'
+    }
   },
   {
-    id: '52165a468b3b818e07000326',
-    collecting_institution: 'Hallwyl Museum, Stockholm',
-    date: '',
-    dimensions: {
-      text: '29 53/100 Ã— 23 3/100 in',
-      height: 29.53,
-      width: 23.03,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rachel-ruysch-flower-still-life',
+    id: 69,
     title: 'Flower Still Life',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/6jmZ3p669qCVrFat-pwiPg/medium.jpg',
+    slug: 'rachel-ruysch-flower-still-life',
+    date: null,
+    dimensions: {
+      width: 23.03,
+      height: 29.53
+    },
+    votes: 33,
     artist: {
+      id: 28,
       name: 'Rachel Ruysch',
       hometown: 'The Hague, Netherlands',
       birthday: '1664',
       deathday: '1750'
     },
-    votes: 30
+    museum: {
+      id: 5,
+      name: 'Hallwyl Museum, Stockholm'
+    }
   },
   {
-    id: '52165a44a09a6722e6000202',
-    collecting_institution: 'Rijksmuseum, Amsterdam',
-    date: '1653',
-    dimensions: {
-      text: '15 1/6 Ã— 17 3/4 in',
-      height: 15.1666666666667,
-      width: 17.75,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-three-crosses-first-state',
+    id: 70,
     title: 'Three Crosses (First State)',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/yeDP7Jxgb5hYEDqlBkiBNg/medium.jpg',
+    slug: 'rembrandt-van-rijn-three-crosses-first-state',
+    date: '1653',
+    dimensions: {
+      width: 17.75,
+      height: 15.1666666666667
+    },
+    votes: 42,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 91
+    museum: {
+      id: 6,
+      name: 'Rijksmuseum, Amsterdam'
+    }
   },
   {
-    id: '52165618275b24d741000365',
-    collecting_institution: 'Museo del Prado, Madrid',
-    date: '1611',
-    dimensions: {
-      text: '20 1/2 Ã— 28 3/4 in',
-      height: 20.5,
-      width: 28.75,
-      depth: null,
-      diameter: null
-    },
-    slug:
-      'clara-peeters-still-life-with-flowers-goblet-dried-fruit-and-pretzels',
+    id: 71,
     title: 'Still Life with Flowers, Goblet, Dried Fruit, and Pretzels',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/GK7XtLLzOhpAmluB-kMvFQ/medium.jpg',
+    slug:
+      'clara-peeters-still-life-with-flowers-goblet-dried-fruit-and-pretzels',
+    date: '1611',
+    dimensions: {
+      width: 28.75,
+      height: 20.5
+    },
+    votes: 8,
     artist: {
+      id: 29,
       name: 'Clara Peeters',
       hometown: 'Antwerp, Belgium',
       birthday: 'ca. 1589',
       deathday: 'ca. 1657'
     },
-    votes: 43
+    museum: {
+      id: 7,
+      name: 'Museo del Prado, Madrid'
+    }
   },
   {
-    id: '52164e4ba09a671d7b000149',
-    collecting_institution: 'Museo del Prado, Madrid',
-    date: '1630-1632',
-    dimensions: {
-      text: '78 Ã— 111 2/5 in',
-      height: 78,
-      width: 111.4,
-      depth: null,
-      diameter: null
-    },
-    slug: 'peter-paul-rubens-garden-of-love',
+    id: 72,
     title: 'Garden of Love',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/_vtbvAiC89L2ekpDsaJL9Q/medium.jpg',
+    slug: 'peter-paul-rubens-garden-of-love',
+    date: '1630-1632',
+    dimensions: {
+      width: 111.4,
+      height: 78.0
+    },
+    votes: 39,
     artist: {
+      id: 4,
       name: 'Peter Paul Rubens',
       hometown: 'Siegen, Westphalia',
       birthday: '1577',
       deathday: '1640'
     },
-    votes: 70
+    museum: {
+      id: 7,
+      name: 'Museo del Prado, Madrid'
+    }
   },
   {
-    id: '52164e47275b2488dc0002de',
-    collecting_institution: 'MusÃ©e du Louvre, Paris',
-    date: '1635',
-    dimensions: {
-      text: '108 3/10 Ã— 84 3/10 in',
-      height: 108.3,
-      width: 84.3,
-      depth: null,
-      diameter: null
-    },
-    slug: 'anthony-van-dyck-charles-i-at-the-hunt',
+    id: 73,
     title: 'Charles I at the Hunt',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/anudTzpA5RT6b_h2WBk17Q/medium.jpg',
+    slug: 'anthony-van-dyck-charles-i-at-the-hunt',
+    date: '1635',
+    dimensions: {
+      width: 84.3,
+      height: 108.3
+    },
+    votes: 22,
     artist: {
+      id: 7,
       name: 'Anthony van Dyck',
       hometown: 'Antwerp, Belgium',
       birthday: '1599',
       deathday: '1641'
     },
-    votes: 55
+    museum: {
+      id: 8,
+      name: 'MusÃ©e du Louvre, Paris'
+    }
   },
   {
-    id: '5213ad80275b24065c000262',
-    collecting_institution: 'Museo del Prado, Madrid',
-    date: '1500-1505',
-    dimensions: {
-      text: '86 3/5 Ã— 153 1/10 in',
-      height: 86.6,
-      width: 153.1,
-      depth: null,
-      diameter: null
-    },
-    slug: 'hieronymus-bosch-the-garden-of-earthly-delights-2',
+    id: 74,
     title: 'The Garden of Earthly Delights',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/89kKFK7u7DpNHoyTv-NfyQ/medium.jpg',
+    slug: 'hieronymus-bosch-the-garden-of-earthly-delights-2',
+    date: '1500-1505',
+    dimensions: {
+      width: 153.1,
+      height: 86.6
+    },
+    votes: 32,
     artist: {
+      id: 30,
       name: 'Hieronymus Bosch',
       hometown: null,
       birthday: 'ca. 1450',
       deathday: '1516'
     },
-    votes: 35
+    museum: {
+      id: 7,
+      name: 'Museo del Prado, Madrid'
+    }
   },
   {
-    id: '4d8b93394eb68a1b2c0010fa',
-    collecting_institution: 'Rijksmuseum, Amsterdam',
-    date: '1642',
-    dimensions: {
-      text: '143 Ã— 172 1/5 in',
-      height: 143,
-      width: 172.2,
-      depth: null,
-      diameter: null
-    },
-    slug:
-      'rembrandt-van-rijn-the-company-of-frans-banning-cocq-and-willem-van-ruytenburch-the-night-watch',
+    id: 75,
     title:
       'The Company of Frans Banning Cocq and Willem van Ruytenburch (The Night Watch)',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/IG8ZLvVmZgQiTn2zK0Bp8w/medium.jpg',
+    slug:
+      'rembrandt-van-rijn-the-company-of-frans-banning-cocq-and-willem-van-ruytenburch-the-night-watch',
+    date: '1642',
+    dimensions: {
+      width: 172.2,
+      height: 143.0
+    },
+    votes: 7,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 81
+    museum: {
+      id: 6,
+      name: 'Rijksmuseum, Amsterdam'
+    }
   },
   {
-    id: '52027ff2c9dc244506000022',
-    collecting_institution: 'The Metropolitan Museum of Art, New York',
-    date: '1449',
-    dimensions: {
-      text: '38 3/5 Ã— 33 1/2 in',
-      height: 38.6,
-      width: 33.5,
-      depth: null,
-      diameter: null
-    },
-    slug: 'petrus-christus-a-goldsmith-saint-eligius-in-his-shop',
+    id: 76,
     title: 'A Goldsmith (Saint Eligius?) in His Shop',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/mcZZCCV0yOIldUXClykCdA/medium.jpg',
+    slug: 'petrus-christus-a-goldsmith-saint-eligius-in-his-shop',
+    date: '1449',
+    dimensions: {
+      width: 33.5,
+      height: 38.6
+    },
+    votes: 24,
     artist: {
+      id: 1,
       name: 'Petrus Christus',
       hometown: 'Baarle-Hertog, Belgium',
       birthday: '1410',
       deathday: '1475'
     },
-    votes: 29
+    museum: {
+      id: 9,
+      name: 'The Metropolitan Museum of Art, New York'
+    }
   },
   {
-    id: '52027ff17622dd65a00001b9',
-    collecting_institution: 'Uffizi Gallery, Florence',
-    date: 'ca. 1474-76',
-    dimensions: {
-      text: '55 1/2 Ã— 99 3/5 in',
-      height: 55.5,
-      width: 99.6,
-      depth: null,
-      diameter: null
-    },
-    slug: 'hugo-van-der-goes-portinari-altarpiece-open',
+    id: 77,
     title: 'Portinari Altarpiece (open)',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/aRhzOtAl8_YLLbvsMY7tAQ/medium.jpg',
+    slug: 'hugo-van-der-goes-portinari-altarpiece-open',
+    date: 'ca. 1474-76',
+    dimensions: {
+      width: 99.6,
+      height: 55.5
+    },
+    votes: 20,
     artist: {
+      id: 31,
       name: 'Hugo van der Goes',
       hometown: 'Ghent, Belgium',
       birthday: 'ca. 1440',
       deathday: '1482'
     },
-    votes: 7
+    museum: {
+      id: 10,
+      name: 'Uffizi Gallery, Florence'
+    }
   },
   {
-    id: '516cbe96b31e2b83810000fb',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1623',
-    dimensions: {
-      text: '95 5/8 Ã— 54 1/2 in',
-      height: 95.625,
-      width: 54.5,
-      depth: null,
-      diameter: null
-    },
-    slug: 'anthony-van-dyck-marchesa-elena-grimaldi-cattaneo',
+    id: 78,
     title: 'Marchesa Elena Grimaldi Cattaneo',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/u890ZmZML_Xwo-afANDGlw/medium.jpg',
+    slug: 'anthony-van-dyck-marchesa-elena-grimaldi-cattaneo',
+    date: '1623',
+    dimensions: {
+      width: 54.5,
+      height: 95.625
+    },
+    votes: 40,
     artist: {
+      id: 7,
       name: 'Anthony van Dyck',
       hometown: 'Antwerp, Belgium',
       birthday: '1599',
       deathday: '1641'
     },
-    votes: 35
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cbb9f078b32147800106c',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1670',
-    dimensions: {
-      text: '20 15/16 Ã— 23 5/8 in',
-      height: 20.9375,
-      width: 23.625,
-      depth: null,
-      diameter: null
-    },
-    slug: 'jacob-van-ruisdael-landscape',
+    id: 79,
     title: 'Landscape',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/Gp0qiTfaKBu0wfo6Xs2XBg/medium.jpg',
+    slug: 'jacob-van-ruisdael-landscape',
+    date: 'ca. 1670',
+    dimensions: {
+      width: 23.625,
+      height: 20.9375
+    },
+    votes: 45,
     artist: {
+      id: 11,
       name: 'Jacob van Ruisdael',
       hometown: 'Haarlem, Netherlands',
       birthday: '1628',
       deathday: '1682'
     },
-    votes: 15
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cb9f9078b321478000f7b',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1650',
-    dimensions: {
-      text: '5 Ã— 7 1/4 in',
-      height: 5,
-      width: 7.25,
-      depth: null,
-      diameter: null
-    },
-    slug:
-      'rembrandt-van-rijn-figures-on-the-anthoniesdijk-entering-houtewael-verso',
+    id: 80,
     title: 'Figures on the Anthoniesdijk Entering Houtewael [verso]',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/sv-0bD1S6ysk4jqA73SXQQ/medium.jpg',
+    slug:
+      'rembrandt-van-rijn-figures-on-the-anthoniesdijk-entering-houtewael-verso',
+    date: 'ca. 1650',
+    dimensions: {
+      width: 7.25,
+      height: 5.0
+    },
+    votes: 12,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 82
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cb9b5472cb883150010e5',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1641',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-the-windmill-1',
+    id: 81,
     title: 'The Windmill',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/_qUmHuSSXLA3f5ZPCSi2BQ/medium.jpg',
+    slug: 'rembrandt-van-rijn-the-windmill-1',
+    date: '1641',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 48,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 75
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cb788b83d23c47100101e',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1512',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'jacob-cornelisz-van-oostsanen-christ-taken-captive',
+    id: 82,
     title: 'Christ Taken Captive',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/WGs0PPBdBtaKvec3czQOJQ/medium.jpg',
+    slug: 'jacob-cornelisz-van-oostsanen-christ-taken-captive',
+    date: '1512',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 11,
     artist: {
+      id: 9,
       name: 'Jacob Cornelisz van Oostsanen',
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
     },
-    votes: 56
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cb6cfb83d23c471000fc3',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1645',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-the-omval-1',
+    id: 83,
     title: 'The Omval',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/-ukWiJ0Zngwnrl-Ln1oPgA/medium.jpg',
+    slug: 'rembrandt-van-rijn-the-omval-1',
+    date: '1645',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 34,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 63
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cb5910f8b78534400017e',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1635',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-the-stoning-of-saint-stephen',
+    id: 84,
     title: 'The Stoning of Saint Stephen',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/d787f0DtrFCyQWuwLB5Fow/medium.jpg',
+    slug: 'rembrandt-van-rijn-the-stoning-of-saint-stephen',
+    date: '1635',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 54,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 18
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cb4030f8b7853440000e1',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1648/1650',
-    dimensions: {
-      text: '25 Ã— 21 1/16 in',
-      height: 25,
-      width: 21.0625,
-      depth: null,
-      diameter: null
-    },
-    slug: 'frans-hals-portrait-of-a-man',
+    id: 85,
     title: 'Portrait of a Man',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/6lJ0F8v0ZYFmXsCbkHC3DA/medium.jpg',
+    slug: 'frans-hals-portrait-of-a-man',
+    date: '1648/1650',
+    dimensions: {
+      width: 21.0625,
+      height: 25.0
+    },
+    votes: 36,
     artist: {
+      id: 6,
       name: 'Frans Hals',
       hometown: 'Antwerp, Belgium',
       birthday: '1582',
       deathday: '1666'
     },
-    votes: 63
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cb3fb078b327cee000d0f',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'jacob-van-ruisdael-cottage-on-a-hill',
+    id: 86,
     title: 'Cottage on a Hill',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/9Y3hjKIAEQxq69XH0Q30QQ/medium.jpg',
+    slug: 'jacob-van-ruisdael-cottage-on-a-hill',
+    date: null,
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 50,
     artist: {
+      id: 11,
       name: 'Jacob van Ruisdael',
       hometown: 'Haarlem, Netherlands',
       birthday: '1628',
       deathday: '1682'
     },
-    votes: 54
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cb2da078b327cee000c4c',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1655',
-    dimensions: {
-      text: '3 9/16 Ã— 8 13/16 in',
-      height: 3.5625,
-      width: 8.8125,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-view-of-diemen',
+    id: 87,
     title: 'View of Diemen',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/sp2AUg6vhgeaXUNYo31USw/medium.jpg',
+    slug: 'rembrandt-van-rijn-view-of-diemen',
+    date: 'ca. 1655',
+    dimensions: {
+      width: 8.8125,
+      height: 3.5625
+    },
+    votes: 56,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 96
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cb268b83d23c471000df2',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1641',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-man-at-a-desk-wearing-a-cross-and-chain-1',
+    id: 88,
     title: 'Man at a Desk Wearing a Cross and Chain',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/935KbHteC_eALATEIXhmtQ/medium.jpg',
+    slug: 'rembrandt-van-rijn-man-at-a-desk-wearing-a-cross-and-chain-1',
+    date: '1641',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 23,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 12
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cb239078b327cee000bff',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1641',
-    dimensions: {
-      text: '5 13/16 Ã— 4 1/2 in',
-      height: 5.8125,
-      width: 4.5,
-      depth: null,
-      diameter: null
-    },
-    slug:
-      'rembrandt-van-rijn-christ-crucified-between-the-two-thieves-an-oval-plate',
+    id: 89,
     title: 'Christ Crucified between the Two Thieves: an Oval Plate',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/IHfCL27tGaDJrc4NZsqnTw/medium.jpg',
+    slug:
+      'rembrandt-van-rijn-christ-crucified-between-the-two-thieves-an-oval-plate',
+    date: 'ca. 1641',
+    dimensions: {
+      width: 4.5,
+      height: 5.8125
+    },
+    votes: 48,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 11
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cb213b83d23c471000dd6',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1658',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-woman-sitting-half-dressed-beside-a-stove-1',
+    id: 90,
     title: 'Woman Sitting Half Dressed beside a Stove',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/eUcFAI8j2g6mJKLL4dCgEA/medium.jpg',
+    slug: 'rembrandt-van-rijn-woman-sitting-half-dressed-beside-a-stove-1',
+    date: '1658',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 40,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 44
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cb03d078b327cee000b23',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1642',
-    dimensions: {
-      text: '3 5/8 Ã— 2 7/16 in',
-      height: 3.625,
-      width: 2.4375,
-      depth: null,
-      diameter: null
-    },
-    slug:
-      'rembrandt-van-rijn-self-portrait-in-a-flat-cap-and-embroidered-dress-1',
+    id: 91,
     title: 'Self-Portrait in a Flat Cap and Embroidered Dress',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/dFtDDR3r6IWyVkUqfx9a_Q/medium.jpg',
+    slug:
+      'rembrandt-van-rijn-self-portrait-in-a-flat-cap-and-embroidered-dress-1',
+    date: 'ca. 1642',
+    dimensions: {
+      width: 2.4375,
+      height: 3.625
+    },
+    votes: 22,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 9
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516caf11078b321478000b0b',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1621',
-    dimensions: {
-      text: '67 11/16 Ã— 46 1/16 in',
-      height: 67.6875,
-      width: 46.0625,
-      depth: null,
-      diameter: null
-    },
-    slug: 'anthony-van-dyck-susanna-fourment-and-her-daughter',
+    id: 92,
     title: 'Susanna Fourment and Her Daughter',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/3ALtVIH8YzIqCvhzqCTCAA/medium.jpg',
+    slug: 'anthony-van-dyck-susanna-fourment-and-her-daughter',
+    date: '1621',
+    dimensions: {
+      width: 46.0625,
+      height: 67.6875
+    },
+    votes: 18,
     artist: {
+      id: 7,
       name: 'Anthony van Dyck',
       hometown: 'Antwerp, Belgium',
       birthday: '1599',
       deathday: '1641'
     },
-    votes: 4
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cae82078b327cee000a8c',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1648',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-jews-in-the-synagogue',
+    id: 93,
     title: 'Jews in the Synagogue',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/9YhQ3LtTA1jeyFuAIZihJQ/medium.jpg',
+    slug: 'rembrandt-van-rijn-jews-in-the-synagogue',
+    date: '1648',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 44,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 32
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cac3ab83d23b4db000b79',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1644/1645',
-    dimensions: {
-      text: '5 1/4 Ã— 4 13/16 in',
-      height: 5.25,
-      width: 4.8125,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-jan-cornelisz-sylvius-the-preacher',
+    id: 94,
     title: 'Jan Cornelisz Sylvius, the Preacher',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/KbT2B_vxIDqgPDLl3acidg/medium.jpg',
+    slug: 'rembrandt-van-rijn-jan-cornelisz-sylvius-the-preacher',
+    date: '1644/1645',
+    dimensions: {
+      width: 4.8125,
+      height: 5.25
+    },
+    votes: 57,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 76
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cab78b83d23c471000b28',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'probably c. 1645/1656',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'allart-van-everdingen-three-goats-at-the-river',
+    id: 95,
     title: 'Three Goats at the River',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/IIu3tkV8xrFAgnHJOI9chw/medium.jpg',
-    artist: {
-      name: 'Allart van Everdingen',
-      hometown: '',
-      birthday: '',
-      deathday: ''
+    slug: 'allart-van-everdingen-three-goats-at-the-river',
+    date: 'probably c. 1645/1656',
+    dimensions: {
+      width: null,
+      height: null
     },
-    votes: 83
+    votes: 35,
+    artist: {
+      id: 10,
+      name: 'Allart van Everdingen',
+      hometown: null,
+      birthday: null,
+      deathday: null
+    },
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516cab0f078b321478000973',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1641',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-the-baptism-of-the-eunuch-1',
+    id: 96,
     title: 'The Baptism of the Eunuch',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/RGcdklhuLlzfhleW24EOkw/medium.jpg',
+    slug: 'rembrandt-van-rijn-the-baptism-of-the-eunuch-1',
+    date: '1641',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 8,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 39
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516ca8c2078b321478000892',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1658',
-    dimensions: {
-      text: null,
-      height: null,
-      width: null,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-the-phoenix-or-the-statue-overthrown',
+    id: 97,
     title: 'The Phoenix or the Statue Overthrown',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/4Gu26DwR0xOQOBb6NXqKPg/medium.jpg',
+    slug: 'rembrandt-van-rijn-the-phoenix-or-the-statue-overthrown',
+    date: '1658',
+    dimensions: {
+      width: null,
+      height: null
+    },
+    votes: 8,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 18
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516ca845078b327cee000860',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1648',
-    dimensions: {
-      text: '6 1/4 Ã— 5 1/8 in',
-      height: 6.25,
-      width: 5.125,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-self-portrait-drawing-at-a-window-1',
+    id: 98,
     title: 'Self-Portrait Drawing at a Window',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/C4ZcucvKgSqw8pTeURF_Kg/medium.jpg',
+    slug: 'rembrandt-van-rijn-self-portrait-drawing-at-a-window-1',
+    date: '1648',
+    dimensions: {
+      width: 5.125,
+      height: 6.25
+    },
+    votes: 5,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 35
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516ca61c472cb83069000877',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: 'ca. 1626',
-    dimensions: {
-      text: '25 13/16 Ã— 32 7/16 in',
-      height: 25.8125,
-      width: 32.4375,
-      depth: null,
-      diameter: null
-    },
-    slug: 'peter-paul-rubens-the-meeting-of-abraham-and-melchizedek',
+    id: 99,
     title: 'The Meeting of Abraham and Melchizedek',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/wJwEzZf3FPlg65SVoYnvyQ/medium.jpg',
+    slug: 'peter-paul-rubens-the-meeting-of-abraham-and-melchizedek',
+    date: 'ca. 1626',
+    dimensions: {
+      width: 32.4375,
+      height: 25.8125
+    },
+    votes: 26,
     artist: {
+      id: 4,
       name: 'Peter Paul Rubens',
       hometown: 'Siegen, Westphalia',
       birthday: '1577',
       deathday: '1640'
     },
-    votes: 21
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   },
   {
-    id: '516ca5260f8b78506700080b',
-    collecting_institution: 'National Gallery of Art, Washington D.C.',
-    date: '1655',
-    dimensions: {
-      text: '13 11/16 Ã— 17 13/16 in',
-      height: 13.6875,
-      width: 17.8125,
-      depth: null,
-      diameter: null
-    },
-    slug: 'rembrandt-van-rijn-christ-presented-to-the-people-oblong-plate',
+    id: 100,
     title: 'Christ Presented to the People: Oblong Plate',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/zycWkWw__u36V6VAWW_e7Q/medium.jpg',
+    slug: 'rembrandt-van-rijn-christ-presented-to-the-people-oblong-plate',
+    date: '1655',
+    dimensions: {
+      width: 17.8125,
+      height: 13.6875
+    },
+    votes: 41,
     artist: {
+      id: 3,
       name: 'Rembrandt van Rijn',
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
     },
-    votes: 95
+    museum: {
+      id: 2,
+      name: 'National Gallery of Art, Washington D.C.'
+    }
   }
 ];

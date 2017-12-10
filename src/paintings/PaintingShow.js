@@ -12,6 +12,7 @@ const PaintingShow = ({ painting }) => {
         <div className="meta">
           {painting.dimensions.width} in. x {painting.dimensions.height} in.
         </div>
+        <div className="meta">{painting.museum.name}</div>
         <div className="description">
           by {painting.artist.name}
           <p>
