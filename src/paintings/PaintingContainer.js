@@ -16,10 +16,18 @@ class PaintingContainer extends Component {
   }
 
   render() {
+    console.log('Props in Container Component', this.props);
+    const visiblePaintings = this.props.paintings.filter(pntg => {
+      if (this.props.visibilityFilter === 'ALL') {
+        return pntg;
+      } else if (this.props.visibilityFilter === 'NATIONAL_GALLERY') {
+        return pntg.museum.id === 2;
+      }
+    });
     return (
       <div className="row">
         <div className="six wide column">
-          <PaintingList paintings={this.props.paintings} />
+          <PaintingList paintings={visiblePaintings} />
         </div>
         <div className="ten wide column">
           {this.props.activePainting ? (
@@ -33,10 +41,22 @@ class PaintingContainer extends Component {
   }
 }
 
-const mapStateToProps = state => ({
-  paintings: state.paintings,
-  activePainting: state.paintings.find(p => p.id === state.activePaintingId)
-});
+const mapStateToProps = state => {
+  return {
+    paintings: state.paintings,
+    visibilityFilter: state.visibilityFilter,
+    activePainting: state.paintings.find(p => p.id === state.activePaintingId)
+  };
+};
+
+// this is equivalent to passing the object as the second arg
+// to connect
+// const mapDispatchToProps = dispatch => {
+//   return {
+//     fetchPaintings: () => dispatch(actions.fetchPaintings()),
+//     selectPainting: id => disptach(actions.selectPainting(id))
+//   };
+// };
 
 export default connect(mapStateToProps, actions)(PaintingContainer);
 // NOTE: here we're using the shorthand syntax for mapDispatchToProps
