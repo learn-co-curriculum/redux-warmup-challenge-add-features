@@ -3,10 +3,15 @@ import {
   SELECT_ACTIVE_PAINTING,
   DELETE_PAINTING
 } from './types';
-import artworks from '../data/artworks';
 
 export function fetchPaintings() {
-  return { type: FETCH_PAINTINGS, payload: artworks };
+  return dispatch => {
+    fetch('http://localhost:3001/api/v1/paintings')
+      .then(res => res.json())
+      .then(data => {
+        dispatch({ type: FETCH_PAINTINGS, payload: data });
+      });
+  };
 }
 
 export function selectPainting(activeID) {

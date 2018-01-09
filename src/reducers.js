@@ -32,7 +32,7 @@ const activePaintingIdReducer = (state = null, action) => {
 };
 
 const visibilityReducer = (state = 'ALL', action) => {
-  console.log('visibilityReducer', action);
+  // console.log('visibilityReducer', action);
   switch (action.type) {
     case 'CHANGE_VISIBLE_PAINTINGS':
       return action.filter;

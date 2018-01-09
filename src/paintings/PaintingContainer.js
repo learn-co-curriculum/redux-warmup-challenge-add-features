@@ -3,20 +3,19 @@ import { connect } from 'react-redux';
 import PaintingList from './PaintingList';
 import PaintingShow from './PaintingShow';
 import * as actions from '../actions';
+{
+}
 // NOTE: actions is a directory.
 // By default import will look for a file called index.js in any directory
 
 class PaintingContainer extends Component {
   componentDidMount() {
-    // NOTE: no async stuff yet. For now we'll
-    // just fetch some data in another file.
-    // We'll still use the lifecycle method
-    // so we can easily add async later
     this.props.fetchPaintings();
   }
 
   render() {
-    console.log('Props in Container Component', this.props);
+    // console.log('actions', actions);
+    // console.log('Props in Container Component', this.props);
     const visiblePaintings = this.props.paintings.filter(pntg => {
       if (this.props.visibilityFilter === 'ALL') {
         return pntg;
@@ -54,7 +53,7 @@ const mapStateToProps = state => {
 // const mapDispatchToProps = dispatch => {
 //   return {
 //     fetchPaintings: () => dispatch(actions.fetchPaintings()),
-//     selectPainting: id => disptach(actions.selectPainting(id))
+//     selectPainting: id => dispatch(actions.selectPainting(id))
 //   };
 // };
 
