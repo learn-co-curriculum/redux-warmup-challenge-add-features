@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import PaintingList from "./PaintingList";
 import PaintingShow from "./PaintingShow";
-import * as actions from "../actions";
+import { fetchPaintings } from "../actions";
 // NOTE: actions is a directory.
 // By default import will look for a file called index.js in any directory
 
@@ -34,13 +34,17 @@ class PaintingContainer extends Component {
 }
 
 const mapStateToProps = state => ({
-  paintings: state.paintings,
+  paintings: state.paintings.filter(
+    p => !state.filters.gallery || p.museum.name === state.filters.gallery
+  ),
   activePainting: state.paintings.find(p => p.id === state.activePaintingId)
 });
 
+// { fetchPaintings: fetchPaintings } => { fetchPaintings: () => dispatch(fetchPaintings()) }
+
 export default connect(
   mapStateToProps,
-  actions
+  { fetchPaintings }
 )(PaintingContainer);
 
 // NOTE: here we're using the shorthand syntax for mapDispatchToProps
