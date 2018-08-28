@@ -16,6 +16,7 @@ const MuseumPicker = ({ activeMuseum, selectGallery }) => {
         </div>
         {museums.map(museum => (
           <div
+            key={museum}
             onClick={() => selectGallery(museum)}
             className={`${museum === activeMuseum ? "active" : null} item`}
           >

@@ -8,7 +8,8 @@ const configureStore = () => {
   // but there could be in the future
   const store = createStore(
     rootReducer,
-    /* preloadedState, */ composeEnhancers(applyMiddleware(thunk))
+    composeEnhancers(applyMiddleware(thunk))
   );
+  return store;
 };
 export default configureStore;
