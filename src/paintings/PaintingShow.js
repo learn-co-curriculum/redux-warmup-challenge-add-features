@@ -1,8 +1,6 @@
-import React from "react";
-import { connect } from "react-redux";
-import { deletePainting } from "../actions";
+import React from 'react';
 
-const PaintingShow = ({ painting, deletePainting }) => {
+const PaintingShow = ({ painting }) => {
   return (
     <div className="ui card">
       <div className="image">
@@ -22,18 +20,10 @@ const PaintingShow = ({ painting, deletePainting }) => {
           </p>
           <p>{painting.artist.hometown}</p>
         </div>
-        <div
-          className="ui basic red right aligned button"
-          onClick={() => deletePainting(painting)}
-        >
-          Delete
-        </div>
+        <div className="ui basic red right aligned button">Delete</div>
       </div>
     </div>
   );
 };
 
-export default connect(
-  null,
-  { deletePainting }
-)(PaintingShow);
+export default PaintingShow;

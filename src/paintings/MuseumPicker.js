@@ -1,36 +1,14 @@
-import React from "react";
-import { connect } from "react-redux";
-import { selectGallery } from "../actions";
+import React from 'react';
 
-const museums = ["National Gallery of Art, Washington D.C."];
-
-const MuseumPicker = ({ activeMuseum, selectGallery }) => {
+const MuseumPicker = () => {
   return (
     <div className="row">
       <div className="ui menu">
-        <div
-          onClick={() => selectGallery(null)}
-          className={`${!activeMuseum ? "active" : null} item`}
-        >
-          All Museums
-        </div>
-        {museums.map(museum => (
-          <div
-            key={museum}
-            onClick={() => selectGallery(museum)}
-            className={`${museum === activeMuseum ? "active" : null} item`}
-          >
-            {museum}
-          </div>
-        ))}
+        <div className="active item">All Museums</div>
+        <div className="item">National Gallery of Art, Washington D.C.</div>
       </div>
     </div>
   );
 };
 
-const mapStateToProps = state => ({ activeMuseum: state.filters.gallery });
-
-export default connect(
-  mapStateToProps,
-  { selectGallery }
-)(MuseumPicker);
+export default MuseumPicker;
