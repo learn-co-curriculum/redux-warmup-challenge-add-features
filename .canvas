@@ -4,3 +4,7 @@
   :course_id: 345
   :canvas_url: https://learning.flatironschool.com/courses/345/assignments/9501
   :type: assignment
+- :id: 10086
+  :course_id: 361
+  :canvas_url: https://learning.flatironschool.com/courses/361/assignments/10086
+  :type: assignment
