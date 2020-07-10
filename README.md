@@ -1,4 +1,4 @@
-# Redux Warmup Challenge
+# Discussion Questions: Redux Warmup Challenge
 
 Fork and clone this repository and run the app. You've been given a codebase with a bunch of functionality already implemented. Your task is as follows:
 
